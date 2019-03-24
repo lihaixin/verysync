@@ -1,0 +1,1 @@
+FROM Auska/docker-verysync
