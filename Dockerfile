@@ -1,1 +1,1 @@
-FROM auska/docker-verysync
+FROM jonnyan404/verysync
